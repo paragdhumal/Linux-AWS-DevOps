@@ -1,0 +1,6 @@
+*** ANSIBLE *** 
+-> Introduction to Ansible and getting started
+1. Ansible is a Configuration Management tool used in DevOps. It is basically used to manage the configuration on multiple nodes simultaneously.
+2. Chef and Puppet are the other Configuration Management tools. But, Ansible is more preferred because Chef and Puppet needed to install Agent on every node, which again was a tedious task.
+   That is nota the case in Ansible.
+3. 
