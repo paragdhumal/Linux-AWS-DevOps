@@ -3,4 +3,25 @@
 1. Ansible is a Configuration Management tool used in DevOps. It is basically used to manage the configuration on multiple nodes simultaneously.
 2. Chef and Puppet are the other Configuration Management tools. But, Ansible is more preferred because Chef and Puppet needed to install Agent on every node, which again was a tedious task.
    That is not a the case in Ansible.
-3. 
+3. In Ansible, you can write Playbooks in YAML(Yaml Ain't Markup Language), which are agentless (unlike Chef and Puppet).
+4. The master is known as Control Node and the slave is called as Manage Node.
+5. You execute the YAML file and the commands can be executed on the Manage Nodes.
+6. Ansible can also de provisioning (create resources like Terraform), Configuration Management, Deployment in CICD and Network Automation.
+
+
+*** ANSIBLE vs SHELL SCRIPTING vs PYTHON ***
+In Shell Scripting, we have to go to each and every node and write a shell script and execute a script to install any package or update.
+In Python, we write python scripts and execute it in each and every node even if it is Linux or Windows.
+But in Ansible, just give your node's IP address in the Control Plane "Inventory file" or "hosts file" and then write just one YAML file
+or Playbook and execute the YAML file. It will get executed simultaneously on all the Nodes whose IP address is present in Inventory file.
+
+*** How to Install? ***
+Use this command --> pip install ansible
+Use VSCode to write YAML files with extensions - YAML, YML.
+
+*** Authentication between Control Plane and Manage Nodes ***
+1. Passwordless Authentication
+
+
+
+
