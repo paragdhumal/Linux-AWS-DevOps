@@ -1,0 +1,18 @@
+1. Can the Jenkinfile be in any location?
+2. Can the Jenkinsfile have another name?
+3. Why do we use Docker as Agent in Jenkinsfile?
+4. Difference between adduser and useradd?
+5. Difference between "mvn clean package" and "mvn clean install".
+6. How to connect to nodes from master in Ansible?
+7. What is the location of hosts file in Ansible?
+8. What are ad-hoc commands in Ansible? What are some of the ad-hoc commands?
+9. List some plugins that you use in Jenkins?
+10. How does terraform know that there are some manual changes done in the infrastructure?
+11. Where and how do we store state file in Terraform?
+12. What is maven and why do we use it?
+13. What is Docker Container and Docker Image?
+14. What are the commands to create a Docker Image from a Dockerfile?
+15. What are the commands used in Dockerfile?
+16. Difference between CMD and RUN?
+17. List 10 commands in Docker?
+18. Write a shell script to find a maximum number of logs recorded by a node in a file?
