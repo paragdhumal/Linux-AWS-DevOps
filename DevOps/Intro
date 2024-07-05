@@ -1,1 +1,14 @@
+1. What is DevOps?
+--> DevOps is a culture that improves the ability to deliver the Software or Applications by ensuring that the
+Automation is in place, the quality of the code is as per standard, the continuous monitoring and continuous testing is properly setup.
+
+2. Why DevOps?
+--> Earlier the software delivery process was a very distributed process and it was manual where there were different
+people for building, testing and deploying applications. This process was long and lengthy. The software delivery
+would take so much of time to deliver the software. It was getting difficult to co-ordinate for all these people to 
+deliver your application because everything was manual process.
+--> That's when DevOps came into place. Through DevOps tools only one person called "DevOps Engineer" can do all
+these things by himself. He can build the application, test the application, create infrastructure and then deliver
+the application all by himself.
+
 
