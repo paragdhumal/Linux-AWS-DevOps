@@ -36,3 +36,15 @@
 36. What is OSI model? Describe layers of OSI Model?
 37. What is the difference between TCP and UDP?
 38. What is the difference between Layer4 and Layer7 of OSI model?
+39. How to mount and create a new file system in Linux?
+40. Difference between YUM and APT package managers?
+41. What is vmstat and netstat commands used for?
+42. How would you do service outage troubleshooting? Tell what commands would you use?
+43. What would you do if your linux system is not able to access internet?
+44. How to check network hops our system is making?
+45. Difference between root user and sudo user?
+46. Difference between TCP and UDP in networking?
+47. What happens when you enter a URL in a browser?
+48. Explain the concept of firewall?
+49. Explain the purpose of subnet mask?
+50. What would you do if 2 devices in a same network are not able to connect?
