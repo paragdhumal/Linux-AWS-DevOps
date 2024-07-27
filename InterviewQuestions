@@ -61,14 +61,25 @@
 61. What are the fields of output of 'ls -l'?
 62. Difference between Softlink and Hardlink?
 63. What is Linkcount?
-64. 
-65.
-66.
-67.
-68.
-69.
-
-
+64. What is umask of root user?
+65. How to make any user superuser?
+66. How to check processes?
+67. What is zombie process or orphan process?
+68. How to replace all 'ROOT' with 'PARAG' from xyz.txt file?
+69. Print only size of disk from df -hT?
+70. How to delete all the files of user 'PARAG'?
+71. How can you take a backup of a folder at a particular time?
+72. What are the different compression types?
+73. What is IAM service?
+74. What is the difference between IAM policy and IAM roles?
+75. What are the features of S3 service?
+76. Explain lifecycle rule in S3 service?
+77. 
+78. 
+79. 
+80. 
+81. 
+82. 
 
 
 
